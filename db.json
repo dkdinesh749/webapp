@@ -1,10 +1,10 @@
 {
-  "dinesh": [
+  "dinesh": {
     "FirstName": "Dinesh",
       "LastName": "Kumar",
       "Age": 24,
       "Address": "Kitchener-D"
-  ],
+  },
   "balaji": 
     {
       "FirstName": "Balaji",
