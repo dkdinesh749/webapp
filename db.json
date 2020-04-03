@@ -1,19 +1,17 @@
 {
   "dinesh": [
-    {
-      "FirstName": "Dinesh",
+    "FirstName": "Dinesh",
       "LastName": "Kumar",
       "Age": 24,
       "Address": "Kitchener-D"
-    }
   ],
-  "balaji": [
+  "balaji": 
     {
       "FirstName": "Balaji",
       "LastName": "Venkatachalapathi",
       "Age": 30,
       "Address": "Kitchener-B"
     }
-  ]
+  
 }
 
